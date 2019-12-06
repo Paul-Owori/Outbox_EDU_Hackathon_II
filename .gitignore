@@ -1,5 +1,6 @@
 #server
 /node_modules
+.DS_Store
 
 # client dependencies
 /client/node_modules
